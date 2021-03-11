@@ -10,6 +10,7 @@ IN : Scriptul citeste un fisier xml cu structura :
  	</country>
      ..
 </countries>
+
 OUT :
 ![Screenshot](parsareXml-Ipsos.JPG)
 
