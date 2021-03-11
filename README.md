@@ -1,4 +1,4 @@
-#Tari - parsare XML 
+# Tari - parsare XML 
 
 IN : Scriptul citeste un fisier xml cu structura : 
 <countries>
